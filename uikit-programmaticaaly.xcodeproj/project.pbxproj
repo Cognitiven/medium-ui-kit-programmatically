@@ -13,6 +13,7 @@
 		E1AD283425EBD318002AA8E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1AD283225EBD318002AA8E5 /* Main.storyboard */; };
 		E1AD283625EBD31C002AA8E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1AD283525EBD31C002AA8E5 /* Assets.xcassets */; };
 		E1AD283925EBD31C002AA8E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1AD283725EBD31C002AA8E5 /* LaunchScreen.storyboard */; };
+		E1AD284225EBD53C002AA8E5 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1AD284125EBD53C002AA8E5 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E1AD283525EBD31C002AA8E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1AD283825EBD31C002AA8E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1AD283A25EBD31C002AA8E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1AD284125EBD53C002AA8E5 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E1AD283525EBD31C002AA8E5 /* Assets.xcassets */,
 				E1AD283725EBD31C002AA8E5 /* LaunchScreen.storyboard */,
 				E1AD283A25EBD31C002AA8E5 /* Info.plist */,
+				E1AD284125EBD53C002AA8E5 /* MainViewController.swift */,
 			);
 			path = "uikit-programmaticaaly";
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				E1AD283125EBD318002AA8E5 /* ViewController.swift in Sources */,
 				E1AD282D25EBD318002AA8E5 /* AppDelegate.swift in Sources */,
 				E1AD282F25EBD318002AA8E5 /* SceneDelegate.swift in Sources */,
+				E1AD284225EBD53C002AA8E5 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
